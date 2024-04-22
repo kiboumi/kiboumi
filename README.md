@@ -11,6 +11,5 @@ I’m a designer and full-stack developer based in London, Ontario. I like to cr
 - 🌱 I've been learning Lumen PHP, Drupal, and a bit of Vue.js sometimes;
 - 📫 How to reach me: maria.jose.lr@hotmail.com (yup, it is a hotmail account hehe);
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiboumi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiboumi&show_icons=true&theme=dark#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiboumi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiboumi&show_icons=true&theme=dark#gh-dark-mode-only) 
