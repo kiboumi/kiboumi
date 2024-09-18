@@ -8,7 +8,7 @@
 I’m a software developer and designer based in London, Ontario. I like to create pleasant, beautiful, and functional stuff.
 
 - 🔭 I’m currently working on something super cool;
-- 🌱 I've been learning Lumen PHP, Drupal, and a bit of Vue.js sometimes;
+- 🌱 I've been learning Lumen PHP, Software testing, and Cloud Platforms such as Microsoft Azure, AWS sometimes;
 - 📫 How to reach me: maria.jose.lr@hotmail.com;
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiboumi&show_icons=true&theme=dark#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiboumi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
